@@ -1,4 +1,8 @@
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Robin-DUBREUIL/opengate/main/opengate.svg" width="512"/>
+</p>
+<h2 align="center"><i>the door to freedom</i></h2>
+<br/>
 
 # OpenGate: Memory Card to SD Adapter for PlayStation 2
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
