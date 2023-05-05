@@ -27,7 +27,7 @@
        stroke-width="3"
        d="m 109.817,18.584 h 7.322 m 0.497,4.916 h -7.819 v -9.954 h 7.819 M 101.293,24.5 V 13.546 m -5.545,0 h 11.215 M 90.969,23.5 h -5.313 l 4.75,-12 6.625,16.563 m -14.63,-17.19 c -5.66,-1.906 -12.879,-1.395 -12.879,5.702 0,7.427 8.138,7.412 11.428,5.894 v -5.813 h -4.932"
        id="path7"
-       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+       style="stroke:#ffffff;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.1338px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.653346"
@@ -38,6 +38,6 @@
          id="tspan442"
          x="21.60973"
          y="29.104916"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker';fill:#ffffff;stroke-width:0.653346">Open</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Permanent Marker';-inkscape-font-specification:'Permanent Marker';fill:#ffffff;fill-opacity:1;stroke-width:0.653346">Open</tspan></text>
   </g>
 </svg>
