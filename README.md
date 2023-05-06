@@ -4,6 +4,14 @@
 <h2 align="center"><i>the door to freedom</i></h2>
 <br/>
 
+## The OpenGate project aims to provide different adapter types, which relates to different branches in this repository:
+
+- ![Type A](https://github.com/Robin-DUBREUIL/opengate/tree/A): The classic OpenGate adapter, tailored to the original PlayStation 2 memory card case and interface.
+- Type B: An upcoming small form factor adapter, to be used with a custom case, stay tuned for updates !
+- Type C: An upcoming embedded adapter, that visually turns a memory card slot into an SD card slot, stay tuned for updates !
+
+**Select the appropriate branch to access the content related to the adapter you are interested in.**
+
 # OpenGate: Memory Card to SD Adapter for PlayStation 2
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
