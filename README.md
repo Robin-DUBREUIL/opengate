@@ -1,4 +1,8 @@
-
+<p align="center">
+    <img src="https://github.com/Robin-DUBREUIL/opengate/raw/A/3D_render.png" width="360"/>
+</p>
+<h1 align="center">Type A</h1>
+<br/>
 
 # OpenGate: Memory Card to SD Adapter for PlayStation 2
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
