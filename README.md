@@ -6,7 +6,7 @@
 
 ## How to get yours
 
-The OpenGate type A is designed for performance and reliability, with modern circuit board manufacturing processes in mind, so is not easy to build at home.
+The OpenGate type A is designed for performance and reliability, with modern circuit board manufacturing processes in mind, so it is not easy to build at home.
 
 When the very fist release will be considered production ready, batches will be manufactured and sold commercially by the ![project author](https://github.com/Robin-DUBREUIL) through a dedicated website. This will guarantee the best quality possible at a fair price for everyone.
 In the meantime, you can reach ![the author](https://github.com/Robin-DUBREUIL) if you are interested to get your hands on a prototype, or pre-order your production grade unit.
