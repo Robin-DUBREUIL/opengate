@@ -4,6 +4,17 @@
 <h1 align="center">Type A</h1>
 <br/>
 
+## How to get yours
+
+The OpenGate type A is designed for performance and reliability, with modern circuit board manufacturing processes in mind, so is not easy to build at home.
+
+When the very fist release will be considered production ready, batches will be manufactured and sold commercially by the ![project author](https://github.com/Robin-DUBREUIL) through a dedicated website. This will guarantee the best quality possible at a fair price for everyone.
+In the meantime, you can reach ![the author](https://github.com/Robin-DUBREUIL) if you are interested to get your hands on a prototype, or pre-order your production grade unit.
+
+As this project is licensed under the CC-BY-NC-SA license, you can request a quote from any PCBA manufacturer in order to obtain your OpenGate, as long as you do not plan to use it commercially. All the required files are freely available in the repository. This option can be expensive for a single unit, and does not guarantee the quality or compliance of your OpenGate. Also, this option does not help keep this project alive: if you absolutely want to use it, consider supporting our project by donating, contributing or promoting it.
+
+<br/>
+
 # OpenGate: Memory Card to SD Adapter for PlayStation 2
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -32,15 +43,6 @@ By using the OpenGate adapter, you acknowledge and agree to these terms and cond
 - EMI/RFI emissions: OpenGate is designed with a tight length matching of the data lines and uses ground planes to reduce EMI/RFI emissions. This ensures a high-quality signal and minimizes interference with other devices.
 - Compact design: OpenGate is designed to fit right into an original memory card case, with a simple slot mod to insert the SD card.
 - Open source, free use of the design for noncommercial purposes: OpenGate is licensed under CC-BY-NC-SA, allowing DIY enthusiasts, makers and modders to use, modify, and distribute the design files. To use it beyond this scope, feel free to contact ![the author](https://github.com/Robin-DUBREUIL).
-
-## How to get yours
-
-The OpenGate type A is designed for performance and reliability, with modern circuit board manufacturing processes in mind, so is not easy to build at home.
-
-When the very fist release will be considered production ready, batches will be manufactured and sold commercially by the ![project author](https://github.com/Robin-DUBREUIL) through a dedicated website. This will guarantee the best quality possible at a fair price for everyone.
-In the meantime, you can reach ![the author](https://github.com/Robin-DUBREUIL) if you are interested to get your hands on a prototype, or pre-order your production grade unit.
-
-As this project is licensed under the CC-BY-NC-SA license, you can request a quote from any PCBA manufacturer in order to obtain your OpenGate, as long as you do not plan to use it commercially. All the required files are freely available in the repository. This option can be expensive for a single unit, and does not guarantee the quality or compliance of your OpenGate. Also, this option does not help keep this project alive: if you absolutely want to use it, consider supporting our project by donating, contributing or promoting it.
 
 ## How to use
 
