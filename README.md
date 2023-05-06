@@ -31,7 +31,7 @@ By using the OpenGate adapter, you acknowledge and agree to these terms and cond
 - Wide compatibility: OpenGate follows the SD spec recommendations regarding pullups and line resistors, ensuring compatibility with a wide range of SD cards.
 - EMI/RFI emissions: OpenGate is designed with a tight length matching of the data lines and uses ground planes to reduce EMI/RFI emissions. This ensures a high-quality signal and minimizes interference with other devices.
 - Compact design: OpenGate is designed to fit right into an original memory card case, with a simple slot mod to insert the SD card.
-- Open source, free use of the design for noncommercial purposes: OpenGate is licensed under CC-BY-NC-SA, allowing DIY enthusiasts, makers and modders to use, modify, and distribute the design files. To use it beyond this scope, feel free to contact me.
+- Open source, free use of the design for noncommercial purposes: OpenGate is licensed under CC-BY-NC-SA, allowing DIY enthusiasts, makers and modders to use, modify, and distribute the design files. To use it beyond this scope, feel free to contact ![the author](https://github.com/Robin-DUBREUIL).
 
 ## How to use
 
@@ -57,7 +57,7 @@ We are working on 3D files of a custom shell for a direct fit case. Stay tuned f
 
 ## License
 
-OpenGate is licensed under CC-BY-NC-SA, which allows hobbyists and modders to use, modify, and distribute the design files freely, as long as they give credit to the original creator and share the derivative work under the same license. Commercial use is hereby not permitted freely, feel free to contact the author to discuss the terms of uses beyond the scope of the CC-BY-NC-SA licence.
+OpenGate is licensed under CC-BY-NC-SA, which allows hobbyists and modders to use, modify, and distribute the design files freely, as long as they give credit to the original creator and share the derivative work under the same license. Commercial use is hereby not permitted freely, feel free to contact ![the author](https://github.com/Robin-DUBREUIL) to discuss the terms of uses beyond the scope of the CC-BY-NC-SA licence.
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
