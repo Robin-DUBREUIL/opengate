@@ -12,6 +12,8 @@
 
 **Select the appropriate branch to access the content related to the adapter you are interested in.**
 
+<br/>
+
 # OpenGate: Memory Card to SD Adapter for PlayStation 2
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
