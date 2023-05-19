@@ -4,6 +4,9 @@
 <h2 align="center"><i>the door to freedom</i></h2>
 <br/>
 
+## News !
+2023-05-19: The type A is now alive ! The very fist prototypes just came home today, and it seems to work just fine. A SanDisk card has already been tested working. Some minor fixes will be done, and the very first stable release should be ready to rock !
+
 ## The OpenGate project aims to provide different adapter types, which relates to different branches in this repository:
 
 - ![Type A](https://github.com/Robin-DUBREUIL/opengate/tree/A): The classic OpenGate adapter, tailored to the original PlayStation 2 memory card case and interface.
