@@ -1,3 +1,11 @@
+# OpenGate: Memory Card to SD Adapter for PlayStation 2
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+<p align="center">
+    <img src="https://github.com/Robin-DUBREUIL/opengate/raw/A/3D_render.png" width="360"/>
+</p>
+<h1 align="center">Type A</h1>
+<br/>
 <p align="center">
     <img src="https://raw.githubusercontent.com/Robin-DUBREUIL/opengate/main/opengate.svg" width="512"/>
 </p>
@@ -5,26 +13,29 @@
 <br/>
 
 ## News !
-2023-05-19: The type A is now alive ! The very fist prototypes just came home today, and it seems to work just fine. A SanDisk card has already been tested working. Some minor fixes will be done, and the very first stable release should be ready to rock !
 
-## The OpenGate project aims to provide different adapter types, which relates to different branches in this repository:
-
-- ![Type A](https://github.com/Robin-DUBREUIL/opengate/tree/A): The classic OpenGate adapter, tailored to the original PlayStation 2 memory card case and interface.
-- Type B: An upcoming small form factor adapter, to be used with a custom case, stay tuned for updates !
-- Type C: An upcoming embedded adapter, that visually turns a memory card slot into an SD card slot, stay tuned for updates !
-
-**Select the appropriate branch to access the content related to the adapter you are interested in.**
-
-<br/>
-
-# OpenGate: Memory Card to SD Adapter for PlayStation 2
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+2023-05-19: **Type A is now alive !** The very fist A1.01 prototypes just came home today, and they seem to work just fine. A SanDisk card has already been tested working, along with a bunch of previously known not to work games. Some minor fixes will be done, and the very first stable release should be ready to rock !
 
 ## Introduction
 
 OpenGate is a memory card to SD adapter designed for PlayStation 2 that provides safe and reliable SD card support, with major improvements over existing solutions in the market. It ensures compatibility with a wide range of SD cards, complies with the SD spec for voltage regulation, and is designed to fit right into the original memory card case.
 
-## Disclaimer
+
+## The OpenGate project aims to provide different adapter types in the long run:
+
+- ![Type A](https://github.com/Robin-DUBREUIL/opengate/): The classic OpenGate adapter, tailored to the original PlayStation 2 memory card case and interface.
+- Type B: An upcoming DIY friendly variant of type A with a single layer PCB, through hole components, large package SMDs and a fullsize SD slot - stay tuned for updates !
+- Type C: An upcoming embedded adapter that visually turns a memory card slot into a micro SD slot - stay tuned for updates !
+
+## Features
+
+- Safe and compatible: OpenGate regulates the 3.5V delivered by the PS2 to 3.3V to power the SD card, complying with the SD spec. This ensures the adapter is safe and reliable, and protects your SD card from potential hazards.
+- Wide compatibility: OpenGate follows the SD spec recommendations regarding pullups and line resistors, ensuring compatibility with a wide range of SD cards.
+- EMI/RFI emissions: OpenGate is designed with a tight length matching of the data lines and uses ground planes to reduce EMI/RFI emissions. This ensures a high-quality signal and minimizes interference with other devices.
+- Compact design: OpenGate is designed to fit right into an original memory card case, with a simple slot mod to insert the SD card.
+- Open source, free use of the design for noncommercial purposes: OpenGate is licensed under CC-BY-NC-SA, allowing DIY enthusiasts, makers and modders to use, modify, and distribute the design files. To use it beyond this scope, feel free to contact ![the author](https://github.com/Robin-DUBREUIL).
+
+## Legal notice
 
 The OpenGate project, its name, artworks, and contributors are not related to or endorsed by Sony Corporation or any of its subsidiaries or affiliates. The project is provided as-is, with no warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
@@ -37,14 +48,6 @@ The OpenGate project and its creators are not affiliated in any way with the Fre
 Please note that modifying or tampering with your PlayStation 2 console or its software may void your warranty and may cause damage to the console or other equipment. The OpenGate project and its creators are not responsible for any damage to your console or equipment resulting from the use of the OpenGate adapter or any other modifications to your console.
 
 By using the OpenGate adapter, you acknowledge and agree to these terms and conditions. If you do not agree to these terms and conditions, you should not use the OpenGate adapter.
-
-## Features
-
-- Safe and compatible: OpenGate regulates the 3.5V delivered by the PS2 to 3.3V to power the SD card, complying with the SD spec. This ensures the adapter is safe and reliable, and protects your SD card from potential hazards.
-- Wide compatibility: OpenGate follows the SD spec recommendations regarding pullups and line resistors, ensuring compatibility with a wide range of SD cards.
-- EMI/RFI emissions: OpenGate is designed with a tight length matching of the data lines and uses ground planes to reduce EMI/RFI emissions. This ensures a high-quality signal and minimizes interference with other devices.
-- Compact design: OpenGate is designed to fit right into an original memory card case, with a simple slot mod to insert the SD card.
-- Open source, free use of the design for noncommercial purposes: OpenGate is licensed under CC-BY-NC-SA, allowing DIY enthusiasts, makers and modders to use, modify, and distribute the design files. To use it beyond this scope, feel free to contact ![the author](https://github.com/Robin-DUBREUIL).
 
 ## How to use
 
